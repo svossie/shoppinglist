@@ -28,4 +28,4 @@ Login with one of the created users: http://x.x.x.x:8000/admin/shop/shoppinglist
 ## Revision Information 
 ## How it works
 Uses a sqlite3 database which stores the list of configured items.
-Currently all configured users are able to access the same shipping list.
+Currently all configured users are able to access the same shopping list.
